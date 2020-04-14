@@ -1,5 +1,0 @@
-var first_number = 7;
-var second_number = 14;
-
-sum = first_number + second_number;
-puts sum;
